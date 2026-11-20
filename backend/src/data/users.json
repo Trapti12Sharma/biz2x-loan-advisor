@@ -1,0 +1,17 @@
+{
+  "_notice": "MOCK demo users. Passwords are hashed (scrypt). Demo passwords are listed in the README and are for local demo only.",
+  "users": [
+    {
+      "id": "user-1",
+      "name": "Aarav Demo",
+      "email": "aarav@example.com",
+      "passwordHash": "8a2cc7ebde1682b0472bd7121b934eb1:a19b6e6efeb02fe220e6a7d21c6b955aaf0b710d23bd6136aea9465ef1b7701667b659a99fb1d483dbded457256c272839118b7a007b894007e57d3389bbd7f7"
+    },
+    {
+      "id": "user-2",
+      "name": "Diya Demo",
+      "email": "diya@example.com",
+      "passwordHash": "2bccf12d132f37a2536daaf7e50bab09:32d70bb384893715ca4c781906cdc63f9ea54a179d3c82f5a7c5773136275b053b0f757d98342c40f541537105715766b3a22cc5ce7fac204d25321801b1e694"
+    }
+  ]
+}
